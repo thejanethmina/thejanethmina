@@ -1,4 +1,4 @@
-                    ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=page.id" alt="visitor badge"/>
 
 <!--
 **thejanethmina/thejanethmina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
