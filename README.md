@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a Web Application**
  
- 🌱 I’m currently learning **Kuberenetes, Jira, AWS**
+ 🌱 I’m currently learning **Kubernetes, Jira, AWS**
 
 ⚡ Fun fact **Bananas are berries, but strawberries aren't.**
 
